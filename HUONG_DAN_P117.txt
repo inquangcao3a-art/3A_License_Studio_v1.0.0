@@ -1,0 +1,11 @@
+AI FONT FINDER PRO P117 — CHAN DOAN 97-98%
+
+- Bao cao _P117_PERFORMANCE.log: file di chuyen cham >= 2 giay.
+- Bao cao _P117_WORKFLOW.log: tien do thuc te tung cong doan, WORKER_DONE / WORKER_ERROR.
+- %100 chi khi worker gui su kien done; khong bao thanh cong som.
+- Cap nhat tien do sau thao tac di chuyen thay vi truoc.
+- Khong thay doi quy tac an toan giu font nguon va xac minh ban sao.
+
+THU NGHIEM: chay lan dau voi lua chon GIU LAI FONT NGUON.
+Neu dung o 98%, gui 2 file log trong thu muc kho dich.
+Chua thu tren Windows 11 voi kho font that.

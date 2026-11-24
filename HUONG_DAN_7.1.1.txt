@@ -1,0 +1,37 @@
+AI FONT FINDER PRO 7.1.1
+
+Dùng toàn bộ nội dung của gói ZIP, gồm thư mục assets và tệp .github/workflows/build-windows.yml.
+Workflow Build Client Windows Setup 7.1.1 kiểm tra đầu vào, cài thử bộ cài và chạy ứng dụng đã cài.
+Khi lượt chạy hiển thị Success, tải artifact AI_Font_Finder_PRO_7.1.1_Setup_Windows và giải nén.
+File cài đặt là AI_Font_Finder_PRO_7.1.1_Setup.exe. Cửa sổ chương trình hiển thị 7.1.1.
+
+Nếu mục đã ghim trước đây vẫn hiện icon cũ, bỏ ghim mục đó rồi ghim lại AI Font Finder PRO từ Tất cả ứng dụng.
+
+CẤP BẢN QUYỀN 7.1.1
+1. Trên máy người bán, cài Python 3.11 và chạy: python -m pip install "cryptography>=43"
+2. Từ thư mục mã nguồn, chạy một lần:
+   python seller/issue_license.py init "../AI_Font_Finder_PRO_PRIVATE.key"
+3. Giữ và sao lưu tệp PRIVATE.key ở nơi riêng tư. Chỉ tệp license_public_key.py
+   được đưa vào mã nguồn dùng để đóng gói trên GitHub.
+4. Sau khi đối soát 249.000 ₫, khách sao chép số seri trong bảng hết hạn hoặc mục BẢN QUYỀN, rồi gửi cho bạn cùng email nhận key.
+5. Cấp mã bằng lệnh:
+   python seller/issue_license.py issue "../AI_Font_Finder_PRO_PRIVATE.key" MA_MAY_CUA_KHACH
+6. Gửi key qua email. Khách dán key vào bảng hết hạn hoặc mục BẢN QUYỀN, rồi bấm Kích hoạt. Mã có hiệu lực offline
+   cho 7.1.1 trên máy đó. Xác nhận thanh toán và gửi mã được thực hiện thủ công.
+
+Dùng thử bắt đầu khi mở ứng dụng lần đầu và tính theo 15 ngày lịch liên tục.
+Dữ liệu dùng thử được lưu trên máy. Xóa dữ liệu cấp quyền có thể bắt đầu lại
+lượt dùng thử. Bản này chưa có máy chủ, xác minh email hoặc thu hồi mã từ xa.
+
+Công cụ cấp key 3A License Studio là gói riêng. Cả ứng dụng khách P144 và 7.1.1 dùng cùng định dạng
+key. Dùng cùng khóa công khai và khóa riêng đã tạo nếu cần giữ key đã cấp cho P144.
+Nếu chưa có cặp khóa, tạo bằng lệnh init ở trên. Giữ khóa riêng ở máy người bán.
+
+7.1.1 dùng NumPy 1.26.4 và OpenCV 4.11.0.86 để đóng gói nhất quán.
+Workflow chạy thử EXE trước và sau cài, kiểm tra hai shortcut và thử cài đè để
+đảm bảo thư mục _internal cũ được thay mới. Dữ liệu kích hoạt lưu theo người dùng.
+
+Đóng AI Font Finder PRO trước khi nâng cấp. Với bản cũ có cùng AppId, chạy
+AI_Font_Finder_PRO_7.1.1_Setup.exe và chọn tạo biểu tượng Desktop. Nếu đã ghim
+shortcut cũ hoặc đường dẫn trỏ đến thư mục khác, mở bằng shortcut vừa tạo.
+3A_License_Studio_*_Setup.exe là bộ cài riêng của tool cấp key.

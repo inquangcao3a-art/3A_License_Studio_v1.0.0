@@ -1,0 +1,1 @@
+P123: OCR tu dong, an cac nut OCR rieng; giam padding tat ca nut, thu gon o ky tu va khung anh. Giu lai cac ham OCR va Hybrid trong ma nguon. Can kiem thu giao dien tren Windows.

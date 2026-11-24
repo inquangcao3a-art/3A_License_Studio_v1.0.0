@@ -1,0 +1,17 @@
+AI FONT FINDER PRO P121 - HYBRID OCR + XAC NHAN THU CONG
+
+1. Mo hoac dan anh: chuong trinh tu chay OCR Offline.
+2. Nhan AI OFFLINE + ONLINE de chay hai OCR doc lap tren cung anh.
+   Chon GOOGLE (Google Cloud Vision) hoac OPENAI, nhap API key cua ban.
+   Anh chi duoc gui sau khi ban dong y. Dich vu co the tinh phi.
+3. Nhan CHON KET QUA OCR hoac XAC NHAN TIM KIEM:
+   - Chon ket qua AI Offline / AI Online.
+   - Neu sai, nhap / sua chu vao o van ban.
+   - Nhan XAC NHAN VA TIM FONT de bat dau quet font.
+4. Khong co API key / khong co mang: OCR Offline van dung duoc.
+5. Hai phuong an PA6 / PA7 den-trang da duoc bo khoi danh sach lua chon.
+   Cac phep phan tich nguong sang noi bo va cong cu chinh sua anh van giu.
+
+KIEM THU: da kiem tra cu phap Python va dong goi ZIP.
+CHUA KIEM THU: GUI tren Windows, goi API thuc te, GitHub Actions Setup.exe.
+KHONG CAM KET: Online mien phi, OCR chinh xac 100%, mo hinh moi da huan luyen.

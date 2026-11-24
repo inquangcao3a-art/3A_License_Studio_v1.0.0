@@ -1,0 +1,1 @@
+P126: Robot AI trái tim quay 360 độ trong cửa sổ xác nhận thoát. 8 góc quay, offline; biểu tượng ứng dụng cập nhật. Dữ liệu ảnh được đóng gói trong assets. Kiểm thử giao diện Windows chưa thực hiện.

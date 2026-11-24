@@ -1,0 +1,1 @@
+P131: Replaced app, Windows EXE, installer and Desktop shortcut icon with the supplied heart robot. Windows may cache old shortcut icons; refresh/recreate shortcut or restart Explorer after reinstall. Animation frames unchanged. Build Setup.exe via GitHub Actions.

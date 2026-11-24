@@ -1,0 +1,8 @@
+AI FONT FINDER PRO P119 - BANG XAC NHAN THOAT 3A
+Nguon P118. Bam X hoac Alt+F4: hien bang xac nhan thoat.
+Logo 3A, thong tin doanh nghiep, phao hoa nhe 2.5 giay va hieu ung vo tay.
+Am thanh vo tay ngan duoc phat 1 lan tren Windows (neu he thong cho phep).
+O LAI / Enter / Esc: KHONG thoat. THOAT CHUONG TRINH: thoat.
+Can dong goi kem 2 asset:
+  --add-data "assets/3a_logo.png;assets" --add-data "assets/3a_applause.wav;assets"
+Luu y: chua chay giao dien tren Windows; da kiem tra cu phap va ZIP.

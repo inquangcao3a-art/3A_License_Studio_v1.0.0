@@ -1,0 +1,15 @@
+AI FONT FINDER PRO P125 - PRO REFINED UI
+
+1. Thanh công cụ chỉnh ảnh: 12 nút trên 1 hàng.
+2. Nút CHỌN CHẾ ĐỘ THỦ CÔNG lần lượt chuyển các phương án; bỏ tiền tố PA1/PA2... khỏi tên hiển thị.
+3. ẢNH & CÔNG CỤ: MỞ | DÁN | XÓA trên một hàng.
+4. KHO FONT: THÊM | QUẢN LÝ | KHO FONT trên một hàng.
+5. GHI NHỚ và chú thích chung hàng.
+6. Ô OCR không còn chiếm hết chiều ngang.
+7. Trạng thái so khớp cùng hàng với lựa chọn ảnh so khớp.
+8. Checkbox tùy chỉnh biểu tượng dấu tick.
+9. Logo robot AI trái tim dùng cho header, cửa sổ, EXE, bộ cài.
+10. Giữ nguyên OCR, tìm font, chỉnh ảnh và các hàm khác.
+
+KIỂM THỬ: Python compile, ZIP; chưa chạy GUI và Setup.exe trên Windows.
+BUILD: GitHub Actions -> Build Windows Setup P125 -> Artifacts.

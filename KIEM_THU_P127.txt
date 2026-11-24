@@ -1,0 +1,22 @@
+AI FONT FINDER PRO P127 - KIEM THU (2026-11-23)
+Nguon: P126 ZIP do nguoi dung cung cap.
+
+DA SUA:
+- Nut MO / DAN / XOA tren CUNG HANG voi tieu de 01, nho gon.
+- Nut THEM / QUAN LY / KHO tren CUNG HANG voi tieu de KHO FONT, nho gon.
+- O OCR tren CUNG HANG voi nhan OCR, rong hon, co the sua.
+- Thanh cong cu anh chinh sua nam o hang phia tren anh da xu ly, trong cot ben phai.
+- Logo robot AI trong header va file ICO.
+- Checkbox luoi va am thanh hien dau tick thay vi dau X.
+- Sua loi dialog robot qua lon / khung anh cat le; hien logo robot day du khi frame 360 loi.
+- Cac nut Thoat (trai) / O lai (phai) van giu nguyen.
+
+DA KIEM THU TRONG MOI TRUONG LINUX Xvfb 1600x1000:
+- Python compile: OK
+- Khoi dong Tkinter: OK
+- Hien thi giao dien: OK, screenshot p127_main_test.png
+- Mo dialog thoat: OK, screenshot p127_exit_test.png
+- Frame robot 360: CHUA DAT. P126 co anh bi cat, khong phai 8 goc day du. Hien logo tinh thay vi anh cat.
+- Chua test PyInstaller/Inno Setup tren Windows, OCR/hybrid, kho font va tim kiem thuc te.
+
+Build Windows: GitHub Actions > Build Windows Setup P127 > Artifacts.

@@ -1,0 +1,10 @@
+AI FONT FINDER PRO P121 — PRO COMPACT UI
+
+- Bảng điều khiển bên trái chiếm 45% chiều ngang; kết quả bên phải 55%.
+- Ảnh gốc và ảnh chỉnh sửa hiển thị cao mặc định 132px, vẫn cho phép zoom.
+- Ô ký tự OCR giảm font từ 12 xuống 10; vẫn chỉnh sửa được.
+- Hàng nút mở/dán/xóa ảnh thu gọn khoảng cách và nhãn.
+- Hai nút XÁC NHẬN TÌM KIẾM và STOP được ghim cố định ở cuối bảng trái, không bị ẩn khi cuộn.
+- Dòng trạng thái ghim bên dưới nút.
+- Giữ nguyên thuật toán, API, nút xác nhận OCR, chỉnh sửa ảnh và thoát.
+- Chưa kiểm thử giao diện Windows thực tế; cần kiểm tra trên màn hình 1366x768 và DPI 125%.

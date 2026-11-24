@@ -1,0 +1,22 @@
+AI FONT FINDER PRO P120 — OFFLINE OCR
+
+THAY ĐỔI:
+- Luồng OCR tự động mới: ảnh RGB gốc trước, PSM7/PSM6, chỉ xử lý ảnh khi chưa chắc chắn.
+- Không loại bỏ chữ ngắn (BỘ, 3A, ĐỖ).
+- Không giảm kích thước ảnh gốc và không cắt dấu khi tiền xử lý.
+- Giữ nguyên chế độ chỉnh sửa ảnh; OCR ảnh đã chỉnh chỉ dùng chính ảnh đã chỉnh.
+- Đóng gói Tesseract + dữ liệu vie.traineddata vào bộ cài Windows.
+- Giữ các tính năng khác của giao diện P119.
+
+CÁCH ĐÓNG GÓI:
+1. Upload toàn bộ nội dung ZIP lên repository GitHub (giữ nguyên thư mục .github).
+2. Vào Actions > Build Windows Setup P120 > Run workflow.
+3. Tải artifact AI_Font_Finder_PRO_P120_Setup_Windows.
+4. Giải nén artifact và chạy AI_Font_Finder_PRO_P120_Setup.exe.
+
+KIỂM THỬ:
+- Đã chạy thử OCR với ảnh chữ dựng bằng font DejaVu Sans Bold trên Linux:
+  NỘI BỘ, BỘ, ĐỖ, 3A: 4/4 kết quả chính xác.
+- Chưa kiểm thử ứng dụng GUI trên Windows hoặc file PNG gốc từ CorelDRAW.
+- Chưa tích hợp mô hình AI nhận dạng font độc lập; nâng cấp này là bước cải thiện OCR thực tế.
+- Bản cài cần được build trên GitHub Windows runner; ZIP không chứa Setup.exe.

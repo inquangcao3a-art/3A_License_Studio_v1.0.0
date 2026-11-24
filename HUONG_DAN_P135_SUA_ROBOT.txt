@@ -1,0 +1,1 @@
+P135: Sửa tìm đường dẫn ảnh robot khi chạy PyInstaller; kiểm tra 12 khung ngay trong GitHub Actions. Gỡ bản P133 trước khi cài P135. Nếu còn lỗi, mở log stderr bằng cách chạy EXE từ PowerShell. Chưa kiểm thử trên Windows.

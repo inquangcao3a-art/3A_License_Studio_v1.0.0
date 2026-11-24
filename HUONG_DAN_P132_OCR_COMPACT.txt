@@ -1,0 +1,2 @@
+P133: Cua so xac nhan OCR thu gon theo so phuong an, toi da 5 dong hien thi; cuon khi nhieu hon; giu xac nhan truoc khi tim font.
+Chua kiem thu giao dien tren Windows.

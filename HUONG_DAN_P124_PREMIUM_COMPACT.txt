@@ -1,0 +1,9 @@
+AI Font Finder PRO P124 - Premium Compact UI
+
+Giao dien: cot dieu khien 35%, ket qua 65%; nut nho va can doi; thanh cong cu sua anh tu dong xuong 2 hang; nut tim font/STOP co dinh; khoang cach va nhan gon hon.
+
+Giu nguyen logic OCR, Hybrid, tim font, quan ly font, sua anh va thong bao thoat.
+
+Build: upload cac tep len goc repository (bao gom .github), Actions > Build Windows Setup P124 > Run workflow, tai artifact.
+
+Chua kiem thu truc tiep tren Windows. Anh mockup da duyet la huong thiet ke, khong phai anh chup giao dien Tkinter thuc te.

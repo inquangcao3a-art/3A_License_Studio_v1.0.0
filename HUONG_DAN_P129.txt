@@ -1,0 +1,1 @@
+P129: Logo tĩnh Windows lấy từ ảnh robot trái tim người dùng cung cấp. Robot 360 độ dùng 12 khung trích từ GIF gốc, 150 ms/khung, lặp vô hạn bằng Tkinter after; không dùng vòng lặp chặn. Nút ảnh và font hiển thị đầy đủ chữ. Đóng gói qua GitHub Actions thành Setup.exe. Chưa xác nhận trên Windows.

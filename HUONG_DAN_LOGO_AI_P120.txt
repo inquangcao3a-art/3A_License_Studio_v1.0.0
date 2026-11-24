@@ -1,0 +1,11 @@
+AI FONT FINDER PRO P120 - LOGO AI XANH
+
+Da thay icon ung dung, icon tren thanh tieu de, icon file EXE va icon bo cai Setup.exe.
+Giu nguyen logo doanh nghiep 3A va cac chuc nang OCR / chinh sua anh.
+
+GitHub: upload noi dung ZIP vao repository (bao gom thu muc .github), Actions > Build Windows Setup P120 > Run workflow.
+Sau khi build thanh cong, tai artifact AI_Font_Finder_PRO_P120_Setup_Windows.
+
+Chua kiem chung build Windows trong moi truong nay.
+
+Cap nhat: Logo robot AI moi theo anh mau nguoi dung cung cap.

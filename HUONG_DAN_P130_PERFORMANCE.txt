@@ -1,0 +1,14 @@
+AI FONT FINDER PRO P130 - PERFORMANCE EDITION
+
+NANG CAP DA THUC HIEN:
+- Robot 360: 12 frame, 150 ms/frame, loop vo han; preload PIL frames 1 lan/process.
+- Robot: chi tao PhotoImage khi mo dialog, giai phong khi dong dialog.
+- Robot va phao hoa tam dung khi dialog khong hien thi.
+- Font ticker: 33ms khi dang quet, 200ms khi khong quet.
+- UI event queue: 35ms khi ban, 80ms khi roi; giu gioi han xu ly 9ms/lan.
+- Khong thay doi luong OCR, Hybrid, search, kho font.
+
+KIEM THU: Python syntax, ZIP integrity, 12 frame asset.
+CHUA KIEM THU: Windows CPU/RAM, OCR/search end-to-end, Windows Setup.exe.
+
+DONG GOI: GitHub Actions -> Inno Setup -> Artifacts AI_Font_Finder_PRO_P130_Setup.exe.

@@ -1,0 +1,15 @@
+AI FONT FINDER PRO P122 — PRO COMPACT UI
+
+Nang cap giao dien (khong thay doi thuat toan tim font):
+- Thanh tieu de, thong tin thuong hieu va cac nut gon hon.
+- Nhom MỞ/DÁN/XÓA ẢNH va THÊM/QUẢN LÝ/KHO FONT thanh 2 hang 3 nut.
+- Khu OCR co AI HYBRID va KIEM TRA OCR.
+- Chuc nang quet CPU, benchmark, loc nhom font, dung theo diem duoc gom vao TÙY CHỌN QUÉT / LỌC FONT; bam de mo.
+- Nut XAC NHAN & TIM FONT va STOP luon o cuoi cot trai.
+- Cua so chon OCR co danh sach cuon, khong che nut xac nhan.
+- Thu gon hop thoat 3A va cac hop thoai quan ly font.
+- Van giu chinh sua anh, hybrid OCR, thu vien font va cac chuc nang cu.
+
+Cach build: upload noi dung ZIP vao root GitHub repository, vao Actions > Build Windows Setup P122 > Run workflow.
+Tai Setup.exe trong Artifacts khi workflow thanh cong.
+Chua kiem thu tren Windows; can test 1366x768, 1920x1080, scale 100%/125%.

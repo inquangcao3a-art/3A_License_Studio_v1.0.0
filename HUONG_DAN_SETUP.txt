@@ -1,0 +1,7 @@
+DAY LA MA NGUON DE GITHUB TAO FILE CAI DAT SETUP.EXE, KHONG PHAI FILE CAI DAT DA BIEN DICH.
+1. Upload ma nguon vao GitHub, giu dung .github/workflows/build-windows.yml.
+2. Xoa workflow cu neu trung ten khac, commit main.
+3. Actions > Build Windows Setup P119 > Run workflow.
+4. Summary > Artifacts > AI_Font_Finder_PRO_P119_Setup_Windows.
+5. Giai nen de lay AI_Font_Finder_PRO_P119_Setup.exe.
+CHUA KIEM THU GITHUB WINDOWS BUILD THUC TE.
